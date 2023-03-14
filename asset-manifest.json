@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/Redux_praktika/static/css/main.7acaea2f.css",
-    "main.js": "/Redux_praktika/static/js/main.ef88981f.js",
+    "main.js": "/Redux_praktika/static/js/main.b2893d71.js",
     "index.html": "/Redux_praktika/index.html",
-    "main.7acaea2f.css.map": "/Redux_praktika/static/css/main.7acaea2f.css.map",
-    "main.ef88981f.js.map": "/Redux_praktika/static/js/main.ef88981f.js.map"
+    "main.b2893d71.js.map": "/Redux_praktika/static/js/main.b2893d71.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.ef88981f.js"
+    "static/js/main.b2893d71.js"
   ]
 }
